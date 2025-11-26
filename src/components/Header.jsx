@@ -85,7 +85,7 @@ const Header = () => {
               </svg>
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/Ram-kumar-R7"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 transition-colors duration-300 hover:text-primary"
