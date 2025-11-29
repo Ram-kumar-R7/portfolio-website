@@ -88,7 +88,7 @@ const Contact = () => {
             ))}
           </div>
 
-          <div className="border card bg-gradient-to-r from-primary/10 to-sky-500/10 border-primary/20">
+          <div className="border card bg-linear-to-r from-primary/10 to-sky-500/10 border-primary/20">
             <div className="text-center">
               <h3 className="mb-6 text-2xl font-bold">Connect With Me</h3>
               <div className="flex justify-center gap-6 mb-8">
